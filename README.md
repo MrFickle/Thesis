@@ -1,7 +1,4 @@
-# Electrical and Computer Engineering at the Aristotle University of Thessaloniki
-
-# Thesis Title
-Mortality risk prediction for COVID-19 patients using XGBoost models
+# Mortality risk prediction for COVID-19 patients using XGBoost models
 
 Using demographic and lab test data received from the HM Hospitales in Spain, I built an XGBoost binary classifier using binary logistic regression
 that runs on a simple web app using the streamlit module and predicts the mortality risk of a COVID-19 patient. The user has to pass in the appropriate
